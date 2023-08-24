@@ -1,0 +1,21 @@
+.vscode
+*.pyc
+
+# Authorisation data
+credentials.json
+token.pickle
+
+# python virtual envs:
+venv
+env
+
+# Build/Dist folders
+build
+dist
+*.spec
+
+# Debug config folder
+.vscode
+
+# Mac system files
+.DS_Store

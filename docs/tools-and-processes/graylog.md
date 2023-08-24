@@ -1,0 +1,4 @@
+---
+title: Graylog
+layout: page
+---

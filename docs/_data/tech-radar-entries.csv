@@ -1,0 +1,33 @@
+date,name,ring,quadrant
+2023-06-01,Octopus Deploy,ADOPT,Infrastructure
+2023-06-01,TeamCity,ADOPT,Infrastructure
+2023-06-01,RabbitMQ,ADOPT,Infrastructure
+2023-06-01,C#,ADOPT,Languages & Frameworks
+2023-06-01,QuestPDF,ADOPT,Languages & Frameworks
+2023-06-01,Angular,ADOPT,Languages & Frameworks
+2023-06-01,AngularJS,HOLD,Languages & Frameworks
+2023-06-01,NET Framework,HOLD,Languages & Frameworks
+2023-06-01,NET,ADOPT,Languages & Frameworks
+2023-06-01,SpecFlow,ADOPT,Languages & Frameworks
+2023-06-01,NUnit,ADOPT,Languages & Frameworks
+2023-06-01,AutoMapper,ADOPT,Languages & Frameworks
+2023-06-01,FluentValidation,ADOPT,Languages & Frameworks
+2023-06-01,Hangfire,ADOPT,Languages & Frameworks
+2023-06-01,CKEditor,ADOPT,Languages & Frameworks
+2023-06-01,MariaDb,ADOPT,Datastore & Data Management
+2023-06-01,MySQL Workbench,ADOPT,Datastore & Data Management
+2023-06-01,IBM Cloud Object Storage (S3),ADOPT,Datastore & Data Management
+2023-06-01,Dapper,HOLD,Datastore & Data Management
+2023-06-01,EntityFramework,ADOPT,Datastore & Data Management
+2023-06-01,Vault,ADOPT,Datastore & Data Management
+2023-06-01,Redis,ADOPT,Datastore & Data Management
+2023-06-01,Graylog,ADOPT,Tools & Processes
+2023-06-01,JetBrains Rider,ADOPT,Tools & Processes
+2023-06-01,VS Code,ADOPT,Tools & Processes
+2023-06-01,Visual Studio,ADOPT,Tools & Processes
+2023-06-01,Swagger,ADOPT,Tools & Processes
+2023-06-01,GitHub,ADOPT,Tools & Processes
+2023-06-01,Snyk,ADOPT,Tools & Processes
+2023-06-01,AppDynamics,ADOPT,Tools & Processes
+2023-06-01,SonarQube,ADOPT,Tools & Processes
+2023-06-01,Coverity,ADOPT,Tools & Processes

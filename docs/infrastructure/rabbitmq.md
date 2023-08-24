@@ -1,0 +1,4 @@
+---
+title: RabbitMQ
+layout: page
+---

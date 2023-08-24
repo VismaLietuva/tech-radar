@@ -1,0 +1,41 @@
+<html>
+<head>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="../radar.js"></script>
+<script src="../data/rings.js"></script>
+<script src="../data/quadrants.js"></script>
+<script src="../data/entries.js"></script>
+<link rel="stylesheet" href="../radar.css">
+<link rel="stylesheet" href="/assets/main.css">
+
+</head>
+
+<body>
+    {% include header.html %}
+<svg id="radar"></svg>
+<script>
+    radar_visualization({
+      svg_id: "radar",
+      width: 1450,
+      height: 1000,
+      colors: {
+        background: "#fff",
+        grid: "#bbb",
+        inactive: "#ddd"
+      },
+      title: "",
+      quadrants: quadrants,
+      rings: rings,
+      print_layout: true,
+      zoomed_quadrant: {{ page.quadrant }},
+      //ENTRIES
+      entries: entries
+      //ENTRIES
+    });
+</script>
+
+    {{ content }}
+
+    {% include footer.html %}
+</body>
+</html>

@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+markdown: GFM
+
+title: "Visma Tech Technology Radar"
+description: "Visma Tech Technology Radar"
+
+theme: minima
+
+header_pages: 
+  - datastore-and-data-management/index.md
+  - infrastructure/index.md
+  - languages-and-frameworks/index.md
+  - tools-and-processes/index.md
