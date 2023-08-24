@@ -31,3 +31,7 @@ date,name,ring,quadrant
 2023-06-01,AppDynamics,ADOPT,Tools & Processes
 2023-06-01,SonarQube,ADOPT,Tools & Processes
 2023-06-01,Coverity,ADOPT,Tools & Processes
+2023-08-24,Playwright,ASSESS,Languages & Frameworks
+2023-08-24,Postman,ADOPT,Tools & Processes
+2023-08-24,Selenium,ADOPT,Languages & Frameworks
+2023-08-24,Cypress,ADOPT,Languages & Frameworks
