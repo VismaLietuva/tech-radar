@@ -183,16 +183,12 @@ function radar_visualization(config) {
   }
 
   function viewbox(quadrant) {
-    switch (quadrant) {
-      case 0:
-        return [-10, -15, 725, 500].join(" ")
-      case 1:
-        return [-710, -15, 725, 500].join(" ")
-      case 2:
-        return [-710, -500, 725, 500].join(" ")
-      case 3:
-        return [-10, -500, 725, 500].join(" ")
-     }
+    return [
+      Math.max(0, quadrants[quadrant].factor_x * 400) - 420,
+      Math.max(0, quadrants[quadrant].factor_y * 400) - 420,
+      440,
+      440
+    ].join(" ");
   }
 
   var svg = d3.select("svg#" + config.svg_id)
@@ -302,8 +298,7 @@ function radar_visualization(config) {
     // legend
     var legend = radar.append("g");
     for (var quadrant = 0; quadrant < 4; quadrant++) {
-      legend.append("a").attr("href", config.quadrants[quadrant].link)
-        .append("text")
+      legend.append("text")
         .attr("transform", translate(
           legend_offset[quadrant].x,
           legend_offset[quadrant].y - 45
@@ -419,7 +414,7 @@ function radar_visualization(config) {
     var blip = d3.select(this);
 
     // blip link
-    if (d.active && d.hasOwnProperty("link") && d.link) {
+    if (d.active && Object.prototype.hasOwnProperty.call(d, "link") && d.link) {
       blip = blip.append("a")
         .attr("xlink:href", d.link);
 
