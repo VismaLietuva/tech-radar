@@ -1,6 +1,6 @@
 # Visma Tech Technology Radar
 
-The [Tech Radar](https://ideal-waffle-vrvjrgn.pages.github.io/) is a tool to inspire and support development teams in Visma Tech Company to pick the best technologies for new projects; it provides a platform to share knowledge and experience in technologies, to reflect on technology decisions and continuously evolve our technology landscape. Based on the [pioneering work of ThoughtWorks](https://www.thoughtworks.com/radar) and [Zalando Tech Radar](https://github.com/zalando/tech-radar), our Tech Radar sets out the changes in technologies that are interesting in software development — changes that we think our engineering teams should pay attention to and use in their projects.
+The [Tech Radar](https://vismalietuva.github.io/tech-radar/) is a tool to inspire and support development teams in Visma Tech Company to pick the best technologies for new projects; it provides a platform to share knowledge and experience in technologies, to reflect on technology decisions and continuously evolve our technology landscape. Based on the [pioneering work of ThoughtWorks](https://www.thoughtworks.com/radar) and [Zalando Tech Radar](https://github.com/zalando/tech-radar), our Tech Radar sets out the changes in technologies that are interesting in software development — changes that we think our engineering teams should pay attention to and use in their projects.
 
 ## Updating
 
