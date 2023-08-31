@@ -1,0 +1,168 @@
+date,name,ring,quadrant
+2023-09-01,Amazon CodeDeploy,HOLD,Infrastructure
+2023-09-01,Ansible,HOLD,Infrastructure
+2023-09-01,AWS CodePipeline,HOLD,Infrastructure
+2023-09-01,TeamCity,HOLD,Infrastructure
+2023-09-01,Azure DevOps,HOLD,Infrastructure
+2023-09-01,Jenkins,HOLD,Infrastructure
+2023-09-01,Github Actions,HOLD,Infrastructure
+2023-09-01,Gitlab CI,HOLD,Infrastructure
+2023-09-01,Octopus Deploy,HOLD,Infrastructure
+2023-09-01,Rancher,HOLD,Infrastructure
+2023-09-01,Samson,HOLD,Infrastructure
+2023-09-01,AWS CodeBuild,HOLD,Infrastructure
+2023-09-01,CircleCI,HOLD,Infrastructure
+2023-09-01,Github CI,HOLD,Infrastructure
+2023-09-01,Bitrise,HOLD,Infrastructure
+2023-09-01,ActiveMQ,HOLD,Infrastructure
+2023-09-01,AWS SQS,HOLD,Infrastructure
+2023-09-01,OpenMQ,HOLD,Infrastructure
+2023-09-01,ArtemisMQ,HOLD,Infrastructure
+2023-09-01,RabbitMQ,HOLD,Infrastructure
+2023-09-01,Kafka,HOLD,Infrastructure
+2023-09-01,AWS MSK,HOLD,Infrastructure
+2023-09-01,Kubernetes,HOLD,Infrastructure
+2023-09-01,Google Cloud CDN,HOLD,Infrastructure
+2023-09-01,Microsoft Azure CDN,HOLD,Infrastructure
+2023-09-01,Amazon CloudFront,HOLD,Infrastructure
+2023-09-01,Akamai,HOLD,Infrastructure
+2023-09-01,AWS SES,HOLD,Infrastructure
+2023-09-01,MySMTP,HOLD,Infrastructure
+2023-09-01,Eloqua,HOLD,Infrastructure
+2023-09-01,JavaMail,HOLD,Infrastructure
+2023-09-01,SendGrid,HOLD,Infrastructure
+2023-09-01,MailChimp,HOLD,Infrastructure
+2023-09-01,Mandril,HOLD,Infrastructure
+2023-09-01,AutoML,HOLD,Languages & Frameworks
+2023-09-01,Pandas,HOLD,Languages & Frameworks
+2023-09-01,Scikit-learn,HOLD,Languages & Frameworks
+2023-09-01,XGBoost,HOLD,Languages & Frameworks
+2023-09-01,LightGBM,HOLD,Languages & Frameworks
+2023-09-01,PyTorch,HOLD,Languages & Frameworks
+2023-09-01,Amyuni,HOLD,Languages & Frameworks
+2023-09-01,Apache FOP,HOLD,Languages & Frameworks
+2023-09-01,Apache PDF Box,HOLD,Languages & Frameworks
+2023-09-01,iText,HOLD,Languages & Frameworks
+2023-09-01,Jasper Reports,HOLD,Languages & Frameworks
+2023-09-01,Kendo UI,HOLD,Languages & Frameworks
+2023-09-01,MSReports,HOLD,Languages & Frameworks
+2023-09-01,Apex,HOLD,Languages & Frameworks
+2023-09-01,CFML,HOLD,Languages & Frameworks
+2023-09-01,CLarion,HOLD,Languages & Frameworks
+2023-09-01,Visual Basic,HOLD,Languages & Frameworks
+2023-09-01,COBOL,HOLD,Languages & Frameworks
+2023-09-01,Coldfusion,HOLD,Languages & Frameworks
+2023-09-01,Lotus Script,HOLD,Languages & Frameworks
+2023-09-01,OpenEdge ABL,HOLD,Languages & Frameworks
+2023-09-01,Perl,HOLD,Languages & Frameworks
+2023-09-01,PHP,HOLD,Languages & Frameworks
+2023-09-01,Laravel,HOLD,Languages & Frameworks
+2023-09-01,Symphony,HOLD,Languages & Frameworks
+2023-09-01,Slim,HOLD,Languages & Frameworks
+2023-09-01,Powerbuilder,HOLD,Languages & Frameworks
+2023-09-01,Progress OpenEdge ABL,HOLD,Languages & Frameworks
+2023-09-01,Rlang,HOLD,Languages & Frameworks
+2023-09-01,Ruby,HOLD,Languages & Frameworks
+2023-09-01,RUST,HOLD,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,C,HOLD,Languages & Frameworks
+2023-09-01,C++,HOLD,Languages & Frameworks
+2023-09-01,C#,HOLD,Languages & Frameworks
+2023-09-01,GO,HOLD,Languages & Frameworks
+2023-09-01,Groovy,HOLD,Languages & Frameworks
+2023-09-01,Java,HOLD,Languages & Frameworks
+2023-09-01,Python,HOLD,Languages & Frameworks
+2023-09-01,JavaScript,HOLD,Languages & Frameworks
+2023-09-01,TypeScript,HOLD,Languages & Frameworks
+2023-09-01,HTML,HOLD,Languages & Frameworks
+2023-09-01,Kotlin,HOLD,Languages & Frameworks
+2023-09-01,Oracle Forms,HOLD,Languages & Frameworks
+2023-09-01,PL/SQL,HOLD,Languages & Frameworks
+2023-09-01,Scala,HOLD,Languages & Frameworks
+2023-09-01,Cordova,HOLD,Languages & Frameworks
+2023-09-01,Flutter,HOLD,Languages & Frameworks
+2023-09-01,Ionic,HOLD,Languages & Frameworks
+2023-09-01,React Native,HOLD,Languages & Frameworks
+2023-09-01,Chutzpah,HOLD,Languages & Frameworks
+2023-09-01,Cucumber,HOLD,Languages & Frameworks
+2023-09-01,JUnit,HOLD,Languages & Frameworks
+2023-09-01,Jest,HOLD,Languages & Frameworks
+2023-09-01,TestNG,HOLD,Languages & Frameworks
+2023-09-01,Spock,HOLD,Languages & Frameworks
+2023-09-01,ScalaTest,HOLD,Languages & Frameworks
+2023-09-01,Karma,HOLD,Languages & Frameworks
+2023-09-01,Jasmine,HOLD,Languages & Frameworks
+2023-09-01,MochaJS,HOLD,Languages & Frameworks
+2023-09-01,Mockito,HOLD,Languages & Frameworks
+2023-09-01,NUnit,HOLD,Languages & Frameworks
+2023-09-01,PHPUnit,HOLD,Languages & Frameworks
+2023-09-01,Wiremock,HOLD,Languages & Frameworks
+2023-09-01,Angular,HOLD,Languages & Frameworks
+2023-09-01,AngularJS,HOLD,Languages & Frameworks
+2023-09-01,Concept,HOLD,Languages & Frameworks
+2023-09-01,Dojo,HOLD,Languages & Frameworks
+2023-09-01,JSF,HOLD,Languages & Frameworks
+2023-09-01,Vue.js,HOLD,Languages & Frameworks
+2023-09-01,Swift,HOLD,Languages & Frameworks
+2023-09-01,BreezeJS,HOLD,Languages & Frameworks
+2023-09-01,Ember.js,HOLD,Languages & Frameworks
+2023-09-01,Google Web Toolkit,HOLD,Languages & Frameworks
+2023-09-01,JQuery,HOLD,Languages & Frameworks
+2023-09-01,JSP,HOLD,Languages & Frameworks
+2023-09-01,OpenLayers,HOLD,Languages & Frameworks
+2023-09-01,Oracle Forms,HOLD,Languages & Frameworks
+2023-09-01,React,HOLD,Languages & Frameworks
+2023-09-01,RxJs,HOLD,Languages & Frameworks
+2023-09-01,Svelte,HOLD,Languages & Frameworks
+2023-09-01,Vaadin,HOLD,Languages & Frameworks
+2023-09-01,Wicket,HOLD,Languages & Frameworks
+2023-09-01,REST,HOLD,Languages & Frameworks
+2023-09-01,GrapgQL,HOLD,Languages & Frameworks
+2023-09-01,SOAP,HOLD,Languages & Frameworks
+2023-09-01,WSO2,HOLD,Languages & Frameworks
+2023-09-01,Cypress.io,HOLD,Languages & Frameworks
+2023-09-01,Selenium,HOLD,Languages & Frameworks
+2023-09-01,TestCafe,HOLD,Languages & Frameworks
+2023-09-01,Amazon RDS,HOLD,Datastore & Data Management
+2023-09-01,Amazon S3,HOLD,Datastore & Data Management
+2023-09-01,MariaDB,HOLD,Datastore & Data Management
+2023-09-01,MongoDB,HOLD,Datastore & Data Management
+2023-09-01,MongoDB Atlas,HOLD,Datastore & Data Management
+2023-09-01,MSSQL,HOLD,Datastore & Data Management
+2023-09-01,MySQL,HOLD,Datastore & Data Management
+2023-09-01,Oracle,HOLD,Datastore & Data Management
+2023-09-01,PostgreSQL,HOLD,Datastore & Data Management
+2023-09-01,Amazon DynamoDB,HOLD,Datastore & Data Management
+2023-09-01,Terracotta,HOLD,Datastore & Data Management
+2023-09-01,EHCache,HOLD,Datastore & Data Management
+2023-09-01,Redis,HOLD,Datastore & Data Management
+2023-09-01,Memcached,HOLD,Datastore & Data Management
+2023-09-01,Amazon Aurora,HOLD,Datastore & Data Management
+2023-09-01,Amazon Elasticache,HOLD,Datastore & Data Management
+2023-09-01,Azure Storage,HOLD,Datastore & Data Management
+2023-09-01,Cassandra,HOLD,Datastore & Data Management
+2023-09-01,OpenStack Swift,HOLD,Datastore & Data Management
+2023-09-01,LaunchDarkly,HOLD,Tools & Processes
+2023-09-01,Maven,HOLD,Tools & Processes
+2023-09-01,Gradle,HOLD,Tools & Processes
+2023-09-01,CocoaPods,HOLD,Tools & Processes
+2023-09-01,pip,HOLD,Tools & Processes
+2023-09-01,npm,HOLD,Tools & Processes
+2023-09-01,NuGet,HOLD,Tools & Processes
+2023-09-01,Jira,HOLD,Tools & Processes
+2023-09-01,Github,HOLD,Tools & Processes
+2023-09-01,Trello,HOLD,Tools & Processes
+2023-09-01,FitNesse,HOLD,Tools & Processes
+2023-09-01,Karate,HOLD,Tools & Processes
+2023-09-01,Postman,HOLD,Tools & Processes
+2023-09-01,SoapUI,HOLD,Tools & Processes
+2023-09-01,Swagger,HOLD,Tools & Processes
+2023-09-01,JMeter,HOLD,Tools & Processes
+2023-09-01,Applitools,HOLD,Tools & Processes
+2023-09-01,Browserstack,HOLD,Tools & Processes
+2023-09-01,Geb,HOLD,Tools & Processes
+2023-09-01,MicroStrategy Integrity Manager,HOLD,Tools & Processes
