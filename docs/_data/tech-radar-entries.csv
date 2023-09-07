@@ -1,10 +1,11 @@
 date,name,ring,quadrant
-2023-09-01,Amazon CodeDeploy,HOLD,Infrastructure
-2023-09-01,AWS CodePipeline,HOLD,Infrastructure
-2023-09-01,TeamCity,HOLD,Infrastructure
-2023-09-01,Azure DevOps,HOLD,Infrastructure
-2023-09-01,Jenkins,HOLD,Infrastructure
-2023-09-01,Github Actions,HOLD,Infrastructure
+2023-09-01,Amazon CodeDeploy,ADOPT,Infrastructure
+2023-09-01,AWS CodePipeline,TRIAL,Infrastructure
+2023-09-01,TeamCity,ADOPT,Infrastructure
+2023-09-01,Azure DevOps,ADOPT,Infrastructure
+2023-09-01,Jenkins,ADOPT,Infrastructure
+2023-09-01,Github Actions,ADOPT,Infrastructure
+
 2023-09-01,Gitlab CI,HOLD,Infrastructure
 2023-09-01,Octopus Deploy,HOLD,Infrastructure
 2023-09-01,AWS CodeBuild,HOLD,Infrastructure
