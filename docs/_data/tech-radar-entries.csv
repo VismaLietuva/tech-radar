@@ -45,10 +45,8 @@ date,name,ring,quadrant
 2023-09-01,Scala,HOLD,Languages & Frameworks
 2023-09-01,Cordova,HOLD,Languages & Frameworks
 2023-09-01,Flutter,HOLD,Languages & Frameworks
-
 2023-09-01,Ionic,HOLD,Languages & Frameworks
 2023-09-01,React Native,HOLD,Languages & Frameworks
-2023-09-01,Chutzpah,HOLD,Languages & Frameworks
 2023-09-01,Cucumber,HOLD,Languages & Frameworks
 2023-09-01,JUnit,HOLD,Languages & Frameworks
 2023-09-01,Jest,HOLD,Languages & Frameworks
@@ -64,30 +62,18 @@ date,name,ring,quadrant
 2023-09-01,Wiremock,HOLD,Languages & Frameworks
 2023-09-01,Angular,HOLD,Languages & Frameworks
 2023-09-01,AngularJS,HOLD,Languages & Frameworks
-2023-09-01,Concept,HOLD,Languages & Frameworks
-2023-09-01,Dojo,HOLD,Languages & Frameworks
-2023-09-01,JSF,HOLD,Languages & Frameworks
 2023-09-01,Vue.js,HOLD,Languages & Frameworks
 2023-09-01,Swift,HOLD,Languages & Frameworks
-2023-09-01,BreezeJS,HOLD,Languages & Frameworks
-2023-09-01,Ember.js,HOLD,Languages & Frameworks
 2023-09-01,Google Web Toolkit,HOLD,Languages & Frameworks
 2023-09-01,JQuery,HOLD,Languages & Frameworks
-2023-09-01,JSP,HOLD,Languages & Frameworks
-2023-09-01,OpenLayers,HOLD,Languages & Frameworks
-2023-09-01,Oracle Forms,HOLD,Languages & Frameworks
 2023-09-01,React,HOLD,Languages & Frameworks
 2023-09-01,RxJs,HOLD,Languages & Frameworks
 2023-09-01,Svelte,HOLD,Languages & Frameworks
-2023-09-01,Vaadin,HOLD,Languages & Frameworks
-2023-09-01,Wicket,HOLD,Languages & Frameworks
 2023-09-01,REST,HOLD,Languages & Frameworks
 2023-09-01,GrapgQL,HOLD,Languages & Frameworks
 2023-09-01,SOAP,HOLD,Languages & Frameworks
-2023-09-01,WSO2,HOLD,Languages & Frameworks
-2023-09-01,Cypress.io,HOLD,Languages & Frameworks
+2023-09-01,Cypress,HOLD,Languages & Frameworks
 2023-09-01,Selenium,HOLD,Languages & Frameworks
-2023-09-01,TestCafe,HOLD,Languages & Frameworks
 2023-09-01,Amazon RDS,HOLD,Datastore & Data Management
 2023-09-01,Amazon S3,HOLD,Datastore & Data Management
 2023-09-01,MariaDB,HOLD,Datastore & Data Management
@@ -98,19 +84,15 @@ date,name,ring,quadrant
 2023-09-01,Oracle,HOLD,Datastore & Data Management
 2023-09-01,PostgreSQL,HOLD,Datastore & Data Management
 2023-09-01,Amazon DynamoDB,HOLD,Datastore & Data Management
-2023-09-01,Terracotta,HOLD,Datastore & Data Management
 2023-09-01,EHCache,HOLD,Datastore & Data Management
 2023-09-01,Redis,HOLD,Datastore & Data Management
 2023-09-01,Memcached,HOLD,Datastore & Data Management
 2023-09-01,Amazon Aurora,HOLD,Datastore & Data Management
 2023-09-01,Amazon Elasticache,HOLD,Datastore & Data Management
 2023-09-01,Azure Storage,HOLD,Datastore & Data Management
-2023-09-01,Cassandra,HOLD,Datastore & Data Management
-2023-09-01,OpenStack Swift,HOLD,Datastore & Data Management
 2023-09-01,LaunchDarkly,HOLD,Tools & Processes
 2023-09-01,Maven,HOLD,Tools & Processes
 2023-09-01,Gradle,HOLD,Tools & Processes
-2023-09-01,CocoaPods,HOLD,Tools & Processes
 2023-09-01,pip,HOLD,Tools & Processes
 2023-09-01,npm,HOLD,Tools & Processes
 2023-09-01,NuGet,HOLD,Tools & Processes
@@ -118,12 +100,9 @@ date,name,ring,quadrant
 2023-09-01,Github,HOLD,Tools & Processes
 2023-09-01,Trello,HOLD,Tools & Processes
 2023-09-01,FitNesse,HOLD,Tools & Processes
-2023-09-01,Karate,HOLD,Tools & Processes
 2023-09-01,Postman,HOLD,Tools & Processes
 2023-09-01,SoapUI,HOLD,Tools & Processes
 2023-09-01,Swagger,HOLD,Tools & Processes
 2023-09-01,JMeter,HOLD,Tools & Processes
 2023-09-01,Applitools,HOLD,Tools & Processes
 2023-09-01,Browserstack,HOLD,Tools & Processes
-2023-09-01,Geb,HOLD,Tools & Processes
-2023-09-01,MicroStrategy Integrity Manager,HOLD,Tools & Processes
