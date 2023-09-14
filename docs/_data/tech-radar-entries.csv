@@ -5,39 +5,39 @@ date,name,ring,quadrant
 2023-09-01,Azure DevOps,ADOPT,Infrastructure
 2023-09-01,Jenkins,ADOPT,Infrastructure
 2023-09-01,Github Actions,ADOPT,Infrastructure
-
-2023-09-01,Gitlab CI,HOLD,Infrastructure
-2023-09-01,Octopus Deploy,HOLD,Infrastructure
-2023-09-01,AWS CodeBuild,HOLD,Infrastructure
-2023-09-01,CircleCI,HOLD,Infrastructure
-2023-09-01,ActiveMQ,HOLD,Infrastructure
-2023-09-01,AWS SQS,HOLD,Infrastructure
-2023-09-01,AWS SNS,HOLD,Infrastructure
+2023-09-01,Gitlab CI,ADOPT,Infrastructure
+2023-09-01,Octopus Deploy,ADOPT,Infrastructure
+2023-09-01,AWS CodeBuild,ASSESS,Infrastructure
+2023-09-01,CircleCI,TRIAL,Infrastructure
+2023-09-01,ActiveMQ,ADOPT,Infrastructure
+2023-09-01,AWS SQS,ADOPT,Infrastructure
+2023-09-01,AWS SNS,ADOPT,Infrastructure
 2023-09-01,OpenMQ,HOLD,Infrastructure
-2023-09-01,RabbitMQ,HOLD,Infrastructure
-2023-09-01,Kafka,HOLD,Infrastructure
-2023-09-01,AWS MSK,HOLD,Infrastructure
-2023-09-01,Kubernetes,HOLD,Infrastructure
-2023-09-01,Google Cloud CDN,HOLD,Infrastructure
-2023-09-01,Microsoft Azure CDN,HOLD,Infrastructure
-2023-09-01,Amazon CloudFront,HOLD,Infrastructure
-2023-09-01,AWS SES,HOLD,Infrastructure
-2023-09-01,SendGrid,HOLD,Infrastructure
+2023-09-01,RabbitMQ,ADOPT,Infrastructure
+2023-09-01,Kafka,ADOPT,Infrastructure
+2023-09-01,AWS MSK,TRIAL,Infrastructure
+2023-09-01,Kubernetes,TRIAL,Infrastructure
+2023-09-01,Google Cloud CDN,ADOPT,Infrastructure
+2023-09-01,Microsoft Azure CDN,ADOPT,Infrastructure
+2023-09-01,Amazon CloudFront,ADOPT,Infrastructure
+2023-09-01,AWS SES,TRIAL,Infrastructure
+2023-09-01,SendGrid,ADOPT,Infrastructure
 2023-09-01,Visual Basic,HOLD,Languages & Frameworks
 2023-09-01,COBOL,HOLD,Languages & Frameworks
 2023-09-01,Perl,HOLD,Languages & Frameworks
-2023-09-01,PHP,HOLD,Languages & Frameworks
-2023-09-01,Laravel,HOLD,Languages & Frameworks
-2023-09-01,Symphony,HOLD,Languages & Frameworks
+2023-09-01,PHP,ADOPT,Languages & Frameworks
+2023-09-01,Laravel,ADOPT,Languages & Frameworks
+2023-09-01,Symphony,ADOPT,Languages & Frameworks
 2023-09-01,Powerbuilder,HOLD,Languages & Frameworks
-2023-09-01,Ruby,HOLD,Languages & Frameworks
+2023-09-01,Ruby,ADOPT,Languages & Frameworks
 2023-09-01,Delphi,HOLD,Languages & Frameworks
 2023-09-01,C,HOLD,Languages & Frameworks
 2023-09-01,C++,HOLD,Languages & Frameworks
-2023-09-01,C#,HOLD,Languages & Frameworks
-2023-09-01,GO,HOLD,Languages & Frameworks
-2023-09-01,Groovy,HOLD,Languages & Frameworks
-2023-09-01,Java,HOLD,Languages & Frameworks
+2023-09-01,C#,ADOPT,Languages & Frameworks
+2023-09-01,GO,TRIAL,Languages & Frameworks
+2023-09-01,Groovy,ADOPT,Languages & Frameworks
+2023-09-01,Java,ADOPT,Languages & Frameworks
+
 2023-09-01,Python,HOLD,Languages & Frameworks
 2023-09-01,JavaScript,HOLD,Languages & Frameworks
 2023-09-01,TypeScript,HOLD,Languages & Frameworks
