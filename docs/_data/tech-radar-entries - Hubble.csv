@@ -1,0 +1,106 @@
+date,name,ring,quadrant
+2023-09-01,Amazon CodeDeploy,ADOPT,Infrastructure
+2023-09-01,AWS CodePipeline,TRIAL,Infrastructure
+2023-09-01,TeamCity,ADOPT,Infrastructure
+2023-09-01,Azure DevOps,ADOPT,Infrastructure
+2023-09-01,Jenkins,ADOPT,Infrastructure
+2023-09-01,Github Actions,ADOPT,Infrastructure
+2023-09-01,Gitlab CI,ADOPT,Infrastructure
+2023-09-01,Octopus Deploy,ADOPT,Infrastructure
+2023-09-01,AWS CodeBuild,ASSESS,Infrastructure
+2023-09-01,CircleCI,TRIAL,Infrastructure
+2023-09-01,ActiveMQ,ADOPT,Infrastructure
+2023-09-01,AWS SQS,ADOPT,Infrastructure
+2023-09-01,AWS SNS,ADOPT,Infrastructure
+2023-09-01,OpenMQ,HOLD,Infrastructure
+2023-09-01,RabbitMQ,ADOPT,Infrastructure
+2023-09-01,Kafka,ADOPT,Infrastructure
+2023-09-01,AWS MSK,TRIAL,Infrastructure
+2023-09-01,Kubernetes,TRIAL,Infrastructure
+2023-09-01,Google Cloud CDN,ADOPT,Infrastructure
+2023-09-01,Microsoft Azure CDN,ADOPT,Infrastructure
+2023-09-01,Amazon CloudFront,ADOPT,Infrastructure
+2023-09-01,AWS SES,TRIAL,Infrastructure
+2023-09-01,SendGrid,ADOPT,Infrastructure
+2023-09-01,Visual Basic,HOLD,Languages & Frameworks
+2023-09-01,COBOL,HOLD,Languages & Frameworks
+2023-09-01,Perl,HOLD,Languages & Frameworks
+2023-09-01,PHP,ADOPT,Languages & Frameworks
+2023-09-01,Laravel,ADOPT,Languages & Frameworks
+2023-09-01,Symphony,ADOPT,Languages & Frameworks
+2023-09-01,Powerbuilder,HOLD,Languages & Frameworks
+2023-09-01,Ruby,ADOPT,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,C,HOLD,Languages & Frameworks
+2023-09-01,C++,HOLD,Languages & Frameworks
+2023-09-01,C#,ADOPT,Languages & Frameworks
+2023-09-01,GO,TRIAL,Languages & Frameworks
+2023-09-01,Groovy,ADOPT,Languages & Frameworks
+2023-09-01,Java,ADOPT,Languages & Frameworks
+2023-09-01,Python,ADOPT,Languages & Frameworks
+2023-09-01,JavaScript,ADOPT,Languages & Frameworks
+2023-09-01,TypeScript,ADOPT,Languages & Frameworks
+2023-09-01,Kotlin,ADOPT,Languages & Frameworks
+2023-09-01,Scala,TRIAL,Languages & Frameworks
+2023-09-01,Cordova,HOLD,Languages & Frameworks
+2023-09-01,Flutter,TRIAL,Languages & Frameworks
+2023-09-01,Ionic,ADOPT,Languages & Frameworks
+2023-09-01,React Native,ADOPT,Languages & Frameworks
+2023-09-01,Cucumber,TRIAL,Languages & Frameworks
+2023-09-01,JUnit,ADOPT,Languages & Frameworks
+2023-09-01,Jest,ADOPT,Languages & Frameworks
+2023-09-01,TestNG,TRIAL,Languages & Frameworks
+2023-09-01,Spock,TRIAL,Languages & Frameworks
+2023-09-01,ScalaTest,TRIAL,Languages & Frameworks
+2023-09-01,Karma,HOLD,Languages & Frameworks
+2023-09-01,Jasmine,HOLD,Languages & Frameworks
+2023-09-01,MochaJS,HOLD,Languages & Frameworks
+2023-09-01,Mockito,TRIAL,Languages & Frameworks
+2023-09-01,NUnit,ADOPT,Languages & Frameworks
+2023-09-01,PHPUnit,ADOPT,Languages & Frameworks
+2023-09-01,Wiremock,TRIAL,Languages & Frameworks
+2023-09-01,Angular,ADOPT,Languages & Frameworks
+2023-09-01,AngularJS,HOLD,Languages & Frameworks
+2023-09-01,Vue.js,ADOPT,Languages & Frameworks
+2023-09-01,Swift,ADOPT,Languages & Frameworks
+2023-09-01,Google Web Toolkit,TRIAL,Languages & Frameworks
+2023-09-01,JQuery,HOLD,Languages & Frameworks
+2023-09-01,React,ADOPT,Languages & Frameworks
+2023-09-01,Svelte,TRIAL,Languages & Frameworks
+2023-09-01,REST,ADOPT,Languages & Frameworks
+2023-09-01,GraphQL,TRIAL,Languages & Frameworks
+2023-09-01,SOAP,HOLD,Languages & Frameworks
+2023-09-01,Cypress,ADOPT,Languages & Frameworks
+2023-09-01,Selenium,ADOPT,Languages & Frameworks
+2023-09-01,Amazon RDS,ADOPT,Datastore & Data Management
+2023-09-01,Amazon S3,ADOPT,Datastore & Data Management
+2023-09-01,MariaDB,ADOPT,Datastore & Data Management
+2023-09-01,MongoDB,ADOPT,Datastore & Data Management
+2023-09-01,MongoDB Atlas,TRIAL,Datastore & Data Management
+2023-09-01,MSSQL,ADOPT,Datastore & Data Management
+2023-09-01,MySQL,ADOPT,Datastore & Data Management
+2023-09-01,Oracle,ADOPT,Datastore & Data Management
+2023-09-01,PostgreSQL,ADOPT,Datastore & Data Management
+2023-09-01,Amazon DynamoDB,ADOPT,Datastore & Data Management
+2023-09-01,EHCache,ADOPT,Datastore & Data Management
+2023-09-01,Redis,ADOPT,Datastore & Data Management
+2023-09-01,Memcached,ADOPT,Datastore & Data Management
+2023-09-01,Amazon Aurora,ADOPT,Datastore & Data Management
+2023-09-01,Amazon Elasticache,ADOPT,Datastore & Data Management
+2023-09-01,Azure Storage,ADOPT,Datastore & Data Management
+2023-09-01,LaunchDarkly,ADOPT,Tools & Processes
+2023-09-01,Maven,ADOPT,Tools & Processes
+2023-09-01,Gradle,ADOPT,Tools & Processes
+2023-09-01,pip,ADOPT,Tools & Processes
+2023-09-01,npm,ADOPT,Tools & Processes
+2023-09-01,NuGet,ADOPT,Tools & Processes
+2023-09-01,Jira,ADOPT,Tools & Processes
+2023-09-01,Github,ADOPT,Tools & Processes
+2023-09-01,Trello,ADOPT,Tools & Processes
+2023-09-01,FitNesse,HOLD,Tools & Processes
+2023-09-01,Postman,ADOPT,Tools & Processes
+2023-09-01,SoapUI,ADOPT,Tools & Processes
+2023-09-01,Swagger,ADOPT,Tools & Processes
+2023-09-01,JMeter,ADOPT,Tools & Processes
+2023-09-01,Applitools,TRIAL,Tools & Processes
+2023-09-01,Browserstack,ADOPT,Tools & Processes
