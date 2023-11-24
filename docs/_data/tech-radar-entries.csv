@@ -6,8 +6,12 @@ date,name,ring,quadrant
 2023-09-01,Octopus,ADOPT,Infrastructure
 2023-09-01,Nexus,ADOPT,Infrastructure
 2023-09-01,JFrog Artifactory,ADOPT,Infrastructure
+2023-09-01,Teamcity,HOLD,Infrastructure
 2023-09-01,Tableau,ADOPT,Data Analytics
 2023-09-01,Postman Enterprise,ADOPT,Tools & Processes
+2023-09-01,Graylog,HOLD,Tools & Processes
+2023-09-01,Crucible,HOLD,Tools & Processes
+2023-09-01,Bitbucket,HOLD,Tools & Processes
 2023-09-01,Google Cloud,ADOPT,Quality & Security
 2023-09-01,Qualys,ADOPT,Quality & Security
 2023-09-01,Datadog,ADOPT,Quality & Security
