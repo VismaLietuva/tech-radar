@@ -6,9 +6,11 @@ date,name,ring,quadrant
 2023-09-01,Octopus,ADOPT,Infrastructure
 2023-09-01,Nexus,ADOPT,Infrastructure
 2023-09-01,JFrog Artifactory,ADOPT,Infrastructure
+2023-09-01,Github Actions,TRIAL,Infrastructure
 2023-09-01,Teamcity,HOLD,Infrastructure
 2023-09-01,Tableau,ADOPT,Data Analytics
 2023-09-01,Postman Enterprise,ADOPT,Tools & Processes
+2023-09-01,Github Copilot,TRIAL,Tools & Processes
 2023-09-01,Graylog,HOLD,Tools & Processes
 2023-09-01,Crucible,HOLD,Tools & Processes
 2023-09-01,Bitbucket,HOLD,Tools & Processes
@@ -24,3 +26,4 @@ date,name,ring,quadrant
 2023-09-01,Orca,TRIAL,Quality & Security
 2023-09-01,Swarmia,TRIAL,Quality & Security
 
+2023-09-01,ChatGPT4,ASSESS,Tools & Processes
