@@ -1,29 +1,58 @@
 date,name,ring,quadrant
-2023-09-01,Black Duck,ADOPT,Infrastructure
-2023-09-01,MongoDB Atlas,ADOPT,Infrastructure
-2023-09-01,AWS,ADOPT,Infrastructure
-2023-09-01,Azure,ADOPT,Infrastructure
-2023-09-01,Octopus,ADOPT,Infrastructure
-2023-09-01,Nexus,ADOPT,Infrastructure
-2023-09-01,JFrog Artifactory,ADOPT,Infrastructure
-2023-09-01,Github Actions,TRIAL,Infrastructure
-2023-09-01,Teamcity,HOLD,Infrastructure
-2023-09-01,Something must be added,ADOPT,Programming Languages & Frameworks
-2023-09-01,Tableau,ADOPT,Tools & Processes
-2023-09-01,Postman Enterprise,ADOPT,Tools & Processes
-2023-09-01,Github Copilot,TRIAL,Tools & Processes
-2023-09-01,Graylog,HOLD,Tools & Processes
-2023-09-01,Crucible,HOLD,Tools & Processes
-2023-09-01,Bitbucket,HOLD,Tools & Processes
-2023-09-01,ChatGPT4,ASSESS,Tools & Processes
-2023-09-01,Google Cloud,ADOPT,Quality & Security
-2023-09-01,Qualys,ADOPT,Quality & Security
-2023-09-01,Datadog,ADOPT,Quality & Security
-2023-09-01,AppDynamics,ADOPT,Quality & Security
-2023-09-01,1Password,ADOPT,Quality & Security
-2023-09-01,Polaris,ADOPT,Quality & Security
-2023-09-01,Snyk,ADOPT,Quality & Security
-2023-09-01,SonarQube,ADOPT,Quality & Security
-2023-09-01,LaunchDarkly,ADOPT,Quality & Security
-2023-09-01,Orca,TRIAL,Quality & Security
-2023-09-01,Swarmia,TRIAL,Quality & Security
+2023-09-01,Black Duck,ADOPT,Platforms
+2023-09-01,MongoDB Atlas,ADOPT,Platforms
+2023-09-01,AWS,ADOPT,Platforms
+2023-09-01,Azure,ADOPT,Platforms
+2023-09-01,Google Cloud,ADOPT,Platforms
+2023-09-01,Octopus,ADOPT,Platforms
+2023-09-01,Nexus,ADOPT,Platforms
+2023-09-01,JFrog Artifactory,ADOPT,Platforms
+2023-09-01,Github Actions,TRIAL,Platforms
+2023-09-01,Teamcity,HOLD,Platforms
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,Visual Basic,HOLD,Languages & Frameworks
+2023-09-01,COBOL,HOLD,Languages & Frameworks
+2023-09-01,Perl,HOLD,Languages & Frameworks
+2023-09-01,Powerbuilder,HOLD,Languages & Frameworks
+2023-09-01,Delphi,HOLD,Languages & Frameworks
+2023-09-01,C,HOLD,Languages & Frameworks
+2023-09-01,C++,HOLD,Languages & Frameworks
+2023-09-01,C#,ADOPT,Languages & Frameworks
+2023-09-01,Java,ADOPT,Languages & Frameworks
+2023-09-01,Go,TRIAL,Languages & Frameworks
+2023-09-01,Kotlin,ADOPT,Languages & Frameworks
+2023-09-01,Scala,ADOPT,Languages & Frameworks
+2023-09-01,Python,ADOPT,Languages & Frameworks
+2023-09-01,Groovy,ADOPT,Languages & Frameworks
+2023-09-01,TypeScript,ADOPT,Languages & Frameworks
+2023-09-01,Flutter,ADOPT,Languages & Frameworks
+2023-09-01,Angular,ADOPT,Languages & Frameworks
+2023-09-01,AngularJS,HOLD,Languages & Frameworks
+2023-09-01,React,ADOPT,Languages & Frameworks
+2023-09-01,Vue.js,ADOPT,Languages & Frameworks
+2023-09-01,Swift,ADOPT,Languages & Frameworks
+2023-09-01,JQuery,HOLD,Languages & Frameworks
+2023-09-01,Google Web Toolkit,TRIAL,Languages & Frameworks
+2023-09-01,Svelte,TRIAL,Languages & Frameworks
+2023-09-01,Cypress,ADOPT,Languages & Frameworks
+2023-09-01,Selenium,ADOPT,Languages & Frameworks
+2023-09-01,REST,ADOPT,Techniques
+2023-09-01,GraphQL,TRIAL,Techniques
+2023-09-01,SOAP,HOLD,Techniques
+2023-09-01,Tableau,ADOPT,Tools
+2023-09-01,Postman Enterprise,ADOPT,Tools
+2023-09-01,Github Copilot,TRIAL,Tools
+2023-09-01,Graylog,HOLD,Tools
+2023-09-01,Crucible,HOLD,Tools
+2023-09-01,Bitbucket,HOLD,Tools
+2023-09-01,ChatGPT4,ASSESS,Tools
+2023-09-01,Qualys,ADOPT,Tools
+2023-09-01,Datadog,ADOPT,Tools
+2023-09-01,AppDynamics,ADOPT,Tools
+2023-09-01,1Password,ADOPT,Tools
+2023-09-01,Polaris,ADOPT,Tools
+2023-09-01,Snyk,ADOPT,Tools
+2023-09-01,SonarQube,ADOPT,Tools
+2023-09-01,LaunchDarkly,ADOPT,Tools
+2023-09-01,Orca,TRIAL,Tools
+2023-09-01,Swarmia,TRIAL,Tools
