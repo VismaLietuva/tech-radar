@@ -39,6 +39,11 @@ date,name,ring,quadrant
 2023-09-01,REST,ADOPT,Techniques
 2023-09-01,GraphQL,TRIAL,Techniques
 2023-09-01,SOAP,HOLD,Techniques
+2023-09-01,Microservices,ADOPT,Techniques
+2023-09-01,CQRS,ADOPT,Techniques
+2023-09-01,Event Sourcing,ASSESS,Techniques
+2023-09-01,Visma Cloud Delivery Model,ADOPT,Techniques
+2023-09-01,Visma Security Program,ADOPT,Techniques
 2023-09-01,Tableau,ADOPT,Tools
 2023-09-01,Postman Enterprise,ADOPT,Tools
 2023-09-01,Github Copilot,TRIAL,Tools
