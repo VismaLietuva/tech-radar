@@ -1,14 +1,14 @@
 date,name,ring,quadrant
-2023-09-01,Black Duck,ADOPT,Platforms
-2023-09-01,MongoDB Atlas,ADOPT,Platforms
-2023-09-01,AWS,ADOPT,Platforms
-2023-09-01,Azure,ADOPT,Platforms
-2023-09-01,Google Cloud,ADOPT,Platforms
-2023-09-01,Octopus,ADOPT,Platforms
-2023-09-01,Nexus,ADOPT,Platforms
-2023-09-01,JFrog Artifactory,ADOPT,Platforms
-2023-09-01,Github Actions,TRIAL,Platforms
-2023-09-01,Teamcity,HOLD,Platforms
+2023-09-01,Black Duck,ADOPT,Infrastructure
+2023-09-01,MongoDB Atlas,ADOPT,Infrastructure
+2023-09-01,AWS,ADOPT,Infrastructure
+2023-09-01,Azure,ADOPT,Infrastructure
+2023-09-01,Google Cloud,ADOPT,Infrastructure
+2023-09-01,Octopus,ADOPT,Infrastructure
+2023-09-01,Nexus,ADOPT,Infrastructure
+2023-09-01,JFrog Artifactory,ADOPT,Infrastructure
+2023-09-01,Github Actions,TRIAL,Infrastructure
+2023-09-01,Teamcity,HOLD,Infrastructure
 2023-09-01,Delphi,HOLD,Languages & Frameworks
 2023-09-01,Visual Basic,HOLD,Languages & Frameworks
 2023-09-01,COBOL,HOLD,Languages & Frameworks
